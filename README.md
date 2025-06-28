@@ -4,25 +4,14 @@ A machine learning project to predict diabetes risk using an Artificial Neural N
 
 ---
 
-## 📷 Screenshot
+## 📷 Screenshots (Side by Side)
 
-Below is a screenshot of the project interface:
-
-## 📷 Screenshots
-
-### 🖼️ Page 1
-![Page 1](1st page.png)
-
-### 🖼️ Page 2
-![Page 2](2nd page.png)
-
-### 🖼️ Page 3
-![Page 3](3rd page.png)
-
-
-
+<p float="left">
+  <img src="page1.png" width="30%" />
+  <img src="page2.png" width="30%" />
+  <img src="page3.png" width="30%" />
+</p>
 ---
-
 ## 📁 Files in the Repository
 
 - `Diabetes_Jupter.ANN.ipynb` – Jupyter notebook with ANN model
