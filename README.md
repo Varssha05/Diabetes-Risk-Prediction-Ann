@@ -4,13 +4,17 @@ A machine learning project to predict diabetes risk using an Artificial Neural N
 
 ---
 
-## 📷 Screenshots (Side by Side)
+## 📷 Screenshots
 
-<p float="left">
-  <img src="page1.png" width="30%" />
-  <img src="page2.png" width="30%" />
-  <img src="page3.png" width="30%" />
-</p>
+### 🖼️ Page 1
+![Page 1](page1.png)
+
+### 🖼️ Page 2
+![Page 2](page2.png)
+
+### 🖼️ Page 3
+![Page 3](page3.png)
+
 ---
 ## 📁 Files in the Repository
 
