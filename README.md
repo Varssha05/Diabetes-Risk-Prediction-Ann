@@ -11,13 +11,13 @@ Below is a screenshot of the project interface:
 ## 📷 Screenshots
 
 ### 🖼️ Page 1
-![Page 1](page1.png)
+![Page 1](1st page.png)
 
 ### 🖼️ Page 2
-![Page 2](page2.png)
+![Page 2](2nd page.png)
 
 ### 🖼️ Page 3
-![Page 3](page3.png)
+![Page 3](3rd page.png)
 
 
 
