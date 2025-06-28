@@ -1,6 +1,16 @@
-🩺 Diabetes-Risk-Prediction-Ann
+# 🧠 Diabetes Risk Predictor (ANN)
 
-A machine learning project to predict diabetes risk using an Artificial Neural Network (ANN) with a Streamlit web app.
+A Streamlit-based web application that predicts the likelihood of diabetes using an **Artificial Neural Network (ANN)** trained on medical and lifestyle data.
+
+---
+
+## 🚀 Features
+
+- 💻 Built with **Python**, **ANN**, and **Streamlit**
+- 📊 Uses health-related features (glucose, age, BMI, etc.)
+- 🔍 Real-time risk prediction
+- 🧪 Pre-trained model included
+- 📈 Displays top feature correlations
 
 ---
 
@@ -16,20 +26,33 @@ A machine learning project to predict diabetes risk using an Artificial Neural N
 ![Page 3](page3.png)
 
 ---
-## 📁 Files in the Repository
 
-- `Diabetes_Jupter.ANN.ipynb` – Jupyter notebook with ANN model
-- `diabetes_ann_model.h5` – Trained ANN model
-- `diabetes_model.pkl`, `label_encoders.pkl`, `scaler.pkl` – Saved preprocessing objects
-- `diabetes_prediction_dataset.csv` – Dataset used for training
-- `train_model.py` – Python script to train the model
-- `README.md` – This file
+## 🗂️ Files in the Repository
+
+| File                      | Description                                      |
+|---------------------------|--------------------------------------------------|
+| `Diabetes_Jupter.ANN.ipynb` | Notebook with model training                   |
+| `train_model.py`          | Python script to train the model                |
+| `diabetes_model.pkl`      | Trained ANN model                               |
+| `scaler.pkl`              | Data standardizer                               |
+| `label_encoders.pkl`      | Encoded categorical variables                   |
+| `diabetes_prediction_dataset.csv` | Dataset used                             |
+| `Diabetes.Stremlit.py`    | Streamlit frontend script                       |
 
 ---
 
-## 🚀 Run the App (Streamlit)
-
-To run the Streamlit web app:
+## ⚙️ How to Run the App Locally
 
 ```bash
-streamlit run train_model.py
+# Clone the repo
+git clone https://github.com/YourUsername/Diabetes-Risk-Prediction-Ann
+
+# Navigate into the directory
+cd Diabetes-Risk-Prediction-Ann
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run Diabetes.Stremlit.py
+
