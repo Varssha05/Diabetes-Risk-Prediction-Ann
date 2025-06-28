@@ -1,6 +1,7 @@
 # 🧠 Diabetes Risk Predictor (ANN)
 
-A Streamlit-based web application that predicts the likelihood of diabetes using an **Artificial Neural Network (ANN)** trained on medical and lifestyle data.
+> 🚀 This project predicts diabetes risk using an Artificial Neural Network (ANN) trained on health and lifestyle data.  
+> Developed with Python and deployed via Streamlit for real-time predictions.
 
 ---
 
