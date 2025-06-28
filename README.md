@@ -8,7 +8,17 @@ A machine learning project to predict diabetes risk using an Artificial Neural N
 
 Below is a screenshot of the project interface:
 
-![Screenshot]
+![Screenshot] ## 📷 Screenshots
+
+### Screenshot 1:
+![Screenshot 1]("E:\Capstone Project 2 using vs code\1st page.png")
+
+### Screenshot 2:
+![Screenshot 2]("E:\Capstone Project 2 using vs code\2nd page.png")
+
+### Screenshot 3:
+![Screenshot 3]("E:\Capstone Project 2 using vs code\3rd Page.png")
+
 
 ---
 
